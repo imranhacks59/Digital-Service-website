@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Digital-Service-website/static/css/main.f24884f8.css",
+    "main.js": "/Digital-Service-website/static/js/main.821cf470.js",
+    "static/media/android-dev1.jpg": "/Digital-Service-website/static/media/android-dev1.41e74763cc7275cc2456.jpg",
+    "static/media/about-team1.jpg": "/Digital-Service-website/static/media/about-team1.6b7795d9779071ecb868.jpg",
+    "static/media/software-dev.jpg": "/Digital-Service-website/static/media/software-dev.66a7b5ed04f74a34f993.jpg",
+    "static/media/web-dev1.jpg": "/Digital-Service-website/static/media/web-dev1.ad3e54b8e8642456681a.jpg",
+    "static/media/marketing2.jpg": "/Digital-Service-website/static/media/marketing2.6f8b5f6e30c42106760a.jpg",
+    "static/media/digital-marketing1.jpg": "/Digital-Service-website/static/media/digital-marketing1.b8ff98440dbd7105eb44.jpg",
+    "static/media/app-dev.jpg": "/Digital-Service-website/static/media/app-dev.baabbe5847e36454ee70.jpg",
+    "static/media/screen-rocket.svg": "/Digital-Service-website/static/media/screen-rocket.5e7b1bcf5aaad0c9c953b21af88edbbd.svg",
+    "index.html": "/Digital-Service-website/index.html",
+    "main.f24884f8.css.map": "/Digital-Service-website/static/css/main.f24884f8.css.map",
+    "main.821cf470.js.map": "/Digital-Service-website/static/js/main.821cf470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24884f8.css",
+    "static/js/main.821cf470.js"
+  ]
+}
